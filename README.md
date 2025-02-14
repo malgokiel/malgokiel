@@ -25,7 +25,7 @@ I am an aspiring back-end developer currently located in Frankfurt, Germany 🥨
 - 📫 feel free to reach out to me [**here**](https://www.linkedin.com/in/ma%C5%82gorzata-kielar-47b4801b3/)
 - 📖 in my free time I read(a lot!), ride a bike and bake
 - 🌱 my flat is full of plants
-- 🐛 Aad to be honest, even though it might not be safe to admit, I actually like solving bugs!
+- 🐛 and to be honest, even though it might not be safe to admit, I actually like solving bugs!
 
 <!--
 **malgokiel/malgokiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
