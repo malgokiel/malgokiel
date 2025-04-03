@@ -1,7 +1,7 @@
 # <p align=center>Hi I'm Małgorzata 👋</p>
 
 Nice to see you here!  
-I am an aspiring back-end developer currently located in Frankfurt, Germany 🥨. I focus on building robust web apps. I love clean, easy to follow and maintain code, no matter the complexity of a product. 
+I am an aspiring web app developer currently located in Frankfurt, Germany 🥨. I focus on building robust web apps. I love clean, easy to follow and maintain code, no matter the complexity of a product. 
 
 ### I love:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
