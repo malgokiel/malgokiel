@@ -3,6 +3,8 @@
 Nice to see you here!  
 I am full-stack developer in training, currently located in Frankfurt, Germany 🥨. I focus on building usefull and practical web apps. I love clean, easy to follow and maintain code, no matter the complexity of a product. 
 
+Don't hesitate to reach out! [📩](mailto:libronika@gmail.com)
+
 ## Languages and tools:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
