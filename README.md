@@ -1,7 +1,7 @@
 # <p align=center>Hi I'm Małgorzata 👋</p>
 
 Nice to see you here!  
-I am full-stack developer in training, currently located in Frankfurt, Germany 🥨. I focus on building usefull and practical web apps. I love clean, easy to follow and maintain code, no matter the complexity of a product. 
+I am full-stack developer in training, currently located in Frankfurt, Germany 🥨. I focus on building useful and practical web apps. I love clean, easy to follow and maintain code, no matter the complexity of a product. 
 
 Don't hesitate to reach out! [📩](mailto:libronika@gmail.com)
 
