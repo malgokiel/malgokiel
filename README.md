@@ -30,8 +30,8 @@ Don't hesitate to reach out! [📩](mailto:libronika@gmail.com)
 
 ## Certificates:
 
-[![PCEP](https://img.shields.io/badge/PCEP-803300?style=for-the-badge&logo=PCEP&logoColor=white)](https://verify.openedg.org/?id=M8Ns.8hLt.M9ST)
-[![CS50x](https://img.shields.io/badge/CS50x-fddb33?style=for-the-badge&logo=CS50x&logoColor=white)](https://courses.edx.org/certificates/0848ca3c05b14fe68b0371669971c25c)
+[![PCEP](https://img.shields.io/badge/PCEP-803300?style=for-the-badge&logo=PCEP&logoColor=white)]
+[![CS50x](https://img.shields.io/badge/CS50x-fddb33?style=for-the-badge&logo=CS50x&logoColor=white)]
 
 
 ## If there ever is a trivia about me, here are your hints:
