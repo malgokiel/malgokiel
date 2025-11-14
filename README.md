@@ -30,8 +30,8 @@ Don't hesitate to reach out! [📩](mailto:libronika@gmail.com)
 
 ## Certificates:
 
-[![PCEP](https://img.shields.io/badge/PCEP-803300?style=for-the-badge&logo=PCEP&logoColor=white)]
-[![CS50x](https://img.shields.io/badge/CS50x-fddb33?style=for-the-badge&logo=CS50x&logoColor=white)]
+![PCEP](https://img.shields.io/badge/PCEP-803300?style=for-the-badge&logo=PCEP&logoColor=white)
+![CS50x](https://img.shields.io/badge/CS50x-fddb33?style=for-the-badge&logo=CS50x&logoColor=white)
 
 
 ## If there ever is a trivia about me, here are your hints:
